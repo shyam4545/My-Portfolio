@@ -1,16 +1,44 @@
-# React + Vite
+# 🚀 Professional Portfolio | Shyam Jee Rai
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: [shyamjeerai.in](https://shyamjeerai.in)
 
-Currently, two official plugins are available:
+A high-performance, responsive portfolio built with **React.js** and **Vite**. This site showcases my expertise in Full-Stack Development, Blockchain technology, and AI/ML projects. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite, CSS3 (Modern Flexbox/Grid)
+- **Icons:** React Icons (FontAwesome, SimpleIcons)
+- **Deployment:** Netlify with custom domain integration
+- **Contact:** Integrated with Web3Forms for direct email delivery
 
-## React Compiler
+## ✨ Key Features
+- **Dynamic Project Gallery:** Interactive lightboxes with horizontal scrolling for project videos and screenshots.
+- **Advanced Navigation:** Full-screen media slider for an immersive project viewing experience.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
+- **Professional Contact System:** Functioning contact form and social media integration.
+- **Experience Timeline:** Detailed breakdown of internships and achievements.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔗 1. Transparent & Secure E-Voting System (Blockchain)
+* **Overview:** A decentralized voting application built on the Ethereum blockchain to eliminate electoral fraud.
+* **Tech:** Solidity, React.js, Web3.js, Truffle, IPFS.
+* **Key Feature:** Immutable record-keeping and real-time result verification.
+
+### 🛡️ 2. Personal Cloud Storage with Intrusion Detection (Cybersecurity)
+* **Overview:** A secure cloud storage solution featuring an AI-based intrusion detection system (IDS) to monitor and alert unauthorized access.
+* **Tech:** Python, Flask, MongoDB, Machine Learning.
+* **Key Feature:** High-security file encryption and behavioral threat analysis.
+
+### 🤖 3. Virtual AI Assistant (Python)
+* **Overview:** A desktop voice assistant capable of performing tasks like sending emails, browsing the web, and managing system apps.
+* **Tech:** Python, Pyttsx3, SpeechRecognition, Selenium.
+
+---
+
+## 🚀 Installation & Local Development
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/shyamjeeroy/portfolio.git](https://github.com/shyamjeeroy/portfolio.git)
