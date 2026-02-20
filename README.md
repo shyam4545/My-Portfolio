@@ -21,7 +21,7 @@ A high-performance, responsive portfolio built with **React.js** and **Vite**. T
 
 ## 📂 Featured Projects
 
-### 🔗 1. Transparent & Secure E-Voting System (Blockchain)
+### 🔗 1. Teperred PRoofed Cerificate Validation (Blockchain)
 * **Overview:** A decentralized voting application built on the Ethereum blockchain to eliminate electoral fraud.
 * **Tech:** Solidity, React.js, Web3.js, Truffle, IPFS.
 * **Key Feature:** Immutable record-keeping and real-time result verification.
@@ -31,9 +31,6 @@ A high-performance, responsive portfolio built with **React.js** and **Vite**. T
 * **Tech:** Python, Flask, MongoDB, Machine Learning.
 * **Key Feature:** High-security file encryption and behavioral threat analysis.
 
-### 🤖 3. Virtual AI Assistant (Python)
-* **Overview:** A desktop voice assistant capable of performing tasks like sending emails, browsing the web, and managing system apps.
-* **Tech:** Python, Pyttsx3, SpeechRecognition, Selenium.
 
 ---
 
